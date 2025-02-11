@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class App {
-        public static void main(String[] args) {
+      //making a change to push to git  
+    public static void main(String[] args) {
             System.out.println("******* STUDENT GRADE CALCULATOR *******");
             Scanner scanner = new Scanner(System.in);
             String message="";
